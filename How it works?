@@ -1,0 +1,23 @@
+𝐂𝐨𝐦𝐦𝐞𝐧𝐭 𝐮𝐧 𝐭𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐞 𝐛𝐨𝐫𝐝 𝐩𝐞𝐮𝐭-𝐢𝐥 𝐫é𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐧𝐞𝐫 𝐥𝐚 𝐠𝐞𝐬𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬 𝐥𝐨𝐠𝐢𝐬𝐭𝐢𝐪𝐮𝐞𝐬 ?
+Aujourd'hui, je partage avec vous un tableau de bord Power BI que j'ai conçu pour aider une équipe logistique à :
+*Prioriser les commandes grâce à une classification dynamique (Urgent, Haute, Moyenne, Basse).
+*Identifier les commandes à livrer aujourd'hui pour éviter les retards.
+*Suivre les performances globales par type de livraison et destination
+
+🚀 𝐅𝐨𝐧𝐜𝐭𝐢𝐨𝐧𝐧𝐚𝐥𝐢𝐭é𝐬 𝐜𝐥é𝐬 𝐝𝐮 𝐭𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐞 𝐛𝐨𝐫𝐝:
+1️⃣ Texte dynamique : affiche le nombre de commandes à livrer aujourd'hui, permettant à l'équipe de se concentrer sur les priorités immédiates.
+2️⃣ Mesure "Time to Delivery" : calcule automatiquement le temps restant (ou retardé) pour chaque commande.
+3️⃣ Classement par priorité :
+Grâce à une logique SQL avancée, les commandes sont classées selon leur urgence :
+Livraison Express = Urgent
+Client B2B = Prioritaire
+Autres = Standard
+4️⃣ Visualisations claires et interactives :
+Graphiques, tableaux et filtres pour une prise de décision rapide et efficace.
+
+🎯 𝐁é𝐧é𝐟𝐢𝐜𝐞𝐬 𝐩𝐨𝐮𝐫 𝐥'é𝐪𝐮𝐢𝐩𝐞 𝐥𝐨𝐠𝐢𝐬𝐭𝐢𝐪𝐮𝐞 :
+*Réduction des retards : en priorisant les commandes critiques.
+*Meilleure organisation : planification optimisée grâce aux délais et priorités.
+*Satisfaction client améliorée : livraisons ponctuelles et gestion proactive.
+*Suivi des tendances : identification des opportunités d'amélioration dans la chaîne logistique.
+ 𝐎𝐮𝐭𝐢𝐥𝐬 𝐞𝐭 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐭𝐢𝐥𝐢𝐬é𝐬 :SQL server, Power query, Power bi, Dax.
